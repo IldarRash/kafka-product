@@ -1,1 +1,4 @@
-
+kafka-props:
+  server: localhost
+  group_id:
+  kafka_producer_id:
