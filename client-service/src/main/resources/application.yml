@@ -1,4 +1,5 @@
 kafka-props:
-  server: localhost
-  group_id:
-  kafka_producer_id:
+  host: localhost
+  port: 9092
+  group_id: server.broadcast
+  kafka_producer_id: producerServer
